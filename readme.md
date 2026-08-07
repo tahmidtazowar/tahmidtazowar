@@ -39,3 +39,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
   <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/arnav7777/arnav7777/output/github-snake-light.svg">
 </picture>
+
+![Profile Views](https://komarev.com/ghpvc/?username=tahmidtazowar&label=Profile%20Views&color=0e75b6&style=flat)
